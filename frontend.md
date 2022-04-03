@@ -1,4 +1,4 @@
-# Einfuehrung in die Web Entwicklung (Frontend)
+# Einführung in die Web Entwicklung (Frontend)
 
 Bei der Webentwicklung unterscheidet man grob zwischen Frontend und Backend. Das Frontend ist das was man als Benutzer sieht, also die Website von z.B. Airbnb. Das Backend läuft auf einem Server und verarbeitet Anfragen vom Frontend. Wenn also jemand auf Airbnb nach einer Unterkunft sucht, wird die Anfrage von der Website ans Backend geschickt. Das Backend sucht dann in der Datenbank und schickt das Ergebnis zurück ans Frontend im Browser. Es gibt Frontend Entwickler, Backend Entwickler und die, die sowohl am Frontend als auch Backend arbeiten, nennt man Fullstack Entwickler.
 

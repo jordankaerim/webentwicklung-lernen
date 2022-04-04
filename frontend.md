@@ -35,7 +35,7 @@ Du kannst den folgenden Code in ein Textdokument kopieren und als Datei mit dem 
   <script>
     /* JavaScript */
     function greet() {
-      alert("Salam")
+      alert("Salam");
     }
   </script>
 </body>

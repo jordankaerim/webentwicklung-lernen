@@ -20,7 +20,6 @@ Du kannst den folgenden Code in ein Textdokument kopieren und als Datei mit dem 
 
   <style>
     /* CSS */
-
     button {
       color: red;
       font-weight: bold;
